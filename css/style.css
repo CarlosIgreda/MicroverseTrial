@@ -1,4 +1,35 @@
-.main-section{
+#navbar{
+    padding:10px;
+    background-color: azure;
+    position: fixed;
+    top: 0px;
+    width: 200px;
+    height: 100vh;
+    border: 2px solid black;
+}
 
-    background-color:green;
+
+a{
+    color: #1010ff;
+}
+
+a:hover{
+    color: red;
+}
+
+#introduction_page{
+    padding-left: 240px;
+    background-color: azure;
+}
+
+.main-section{
+    background-color: azure;
+    padding: 50px 40px 100px 20px;
+    
+}
+
+
+.buttons{
+    width: 100%;
+    background-color: #eee;
 }
