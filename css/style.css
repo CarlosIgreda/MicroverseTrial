@@ -1,11 +1,16 @@
+#main-doc{
+padding-left: 250px;
+
+}
 #navbar{
     padding:10px;
     background-color: azure;
     position: fixed;
     top: 0px;
     width: 200px;
-    height: 100vh;
+ 
     border: 2px solid black;
+    padding-right:40px;
 }
 
 
@@ -29,7 +34,7 @@ a:hover{
 }
 
 
-.buttons{
+.nav-link{
     width: 100%;
     background-color: #eee;
 }
